@@ -1,16 +1,45 @@
-### Hi there 👋
+<div align="center">
+<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Edwin <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"/></h1>
 
-<!--
-**Benill0/Benill0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>A software developer passionate about programming</h2>
+<br/>
 
-Here are some ideas to get you started:
+<h2> 📊 GitHub Stats: </h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Benill0&theme=radical&hide_border=false"><br/><br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benill0&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact"><br/>
+</p>
+
+<br/>
+
+<h2> 💻 Tech Stack: </h2>
+
+
+<p align="center">
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+    <img src="https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+</p>
+<p align="center">
+    <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+    <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
+    <img src="https://img.shields.io/badge/Tailwind-06B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white">
+</p>
+<br/>
+<h2> 🌐 Socials: </h2>
+
+<p align="center">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/benitope/">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://github.com/Benill0">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elbenitope@gmail.com">
+</p>
+
+------
+
+[Benill0](https://github.com/Benill0)
+
+Last Edited on: 30/01/2024

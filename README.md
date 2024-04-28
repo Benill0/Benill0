@@ -36,15 +36,6 @@
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://github.com/Benill0">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elbenitope@gmail.com">
 </p>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Benill0/Benill0/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-
 ------
 
 [Benill0](https://github.com/Benill0)

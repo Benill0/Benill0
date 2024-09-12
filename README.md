@@ -1,5 +1,5 @@
 ll<div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Edwin <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"/></h1>
+<h1 align="center">Hi, I'm Edwin <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"/></h1>
 
 <h3>A software developer passionate about programming</h2>
 <br/>
@@ -8,7 +8,6 @@ ll<div align="center">
 
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Benill0&theme=radical&hide_border=false"><br/><br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benill0&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact"><br/>
 </p>
 
 <br/>
@@ -40,4 +39,4 @@ ll<div align="center">
 
 [Benill0](https://github.com/Benill0)
 
-Last Edited on: 30/01/2024
+Last Edited on: 11/09/2024

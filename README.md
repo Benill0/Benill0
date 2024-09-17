@@ -1,4 +1,4 @@
-ll<div align="center">
+<div align="center">
 <h1 align="center">Hi, I'm Edwin <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"/></h1>
 
 <h3>A software developer passionate about programming</h2>

@@ -4,14 +4,6 @@
 <h3>A software developer passionate about programming</h2>
 <br/>
 
-<h2> 📊 GitHub Stats: </h2>
-
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Benill0&theme=radical&hide_border=false"><br/><br/>
-</p>
-
-<br/>
-
 <h2> 💻 Tech Stack: </h2>
 
 <p align="center">
